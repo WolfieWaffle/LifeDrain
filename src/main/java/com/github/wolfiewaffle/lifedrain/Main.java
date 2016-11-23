@@ -30,8 +30,6 @@ public class Main {
 	@SidedProxy(clientSide = "com.github.wolfiewaffle.lifedrain.proxy.ClientProxy", serverSide = "com.github.wolfiewaffle.lifedrain.proxy.ServerProxy")
 	public static CommonProxy proxy;
 
-	private File configDir;
-
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent e) {
 		proxy.preInit(e);

@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "lifedrain",
+  "name": "Life Drain",
+  "description": "Is Blood Magic not risky enough for you?",
+  "version": "1.10.2-1.0",
+  "mcversion": "1.10.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": [ "Wolfie_Waffle" ],
+  "credits": "TehNut and Choonster, for helping me with code.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
